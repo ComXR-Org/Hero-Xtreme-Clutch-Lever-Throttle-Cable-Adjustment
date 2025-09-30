@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9034553946087484983
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.5418041
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.0186592
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.00000029007714
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6474419
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.6474423
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.28428638
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.28428635
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4974c923dcbe5384eb7a290e82ae0205, type: 2}
+    - target: {fileID: 919132149155446097, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+      propertyPath: m_Name
+      value: bootup display prefab 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5727363851174119901}
+  m_SourcePrefab: {fileID: 100100000, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+--- !u!1 &8187622340367536998 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: b53689d0a4172e9499a864071e81eb29, type: 3}
+  m_PrefabInstance: {fileID: 9034553946087484983}
+  m_PrefabAsset: {fileID: 0}
+--- !u!328 &5727363851174119901
+VideoPlayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8187622340367536998}
+  m_Enabled: 1
+  m_VideoClip: {fileID: 0}
+  m_TargetCameraAlpha: 1
+  m_TargetCamera3DLayout: 0
+  m_TargetCamera: {fileID: 0}
+  m_TargetTexture: {fileID: 0}
+  m_TimeReference: 0
+  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialProperty: _EmissionMap
+  m_RenderMode: 3
+  m_AspectRatio: 2
+  m_DataSource: 1
+  m_TimeUpdateMode: 2
+  m_PlaybackSpeed: 1
+  m_AudioOutputMode: 2
+  m_TargetAudioSources:
+  - {fileID: 0}
+  m_DirectAudioVolumes:
+  - 1
+  m_Url: 
+  m_EnabledAudioTracks: 01
+  m_DirectAudioMutes: 00
+  m_ControlledAudioTrackCount: 1
+  m_PlayOnAwake: 1
+  m_SkipOnDrop: 1
+  m_Looping: 0
+  m_WaitForFirstFrame: 1
+  m_FrameReadyEventEnabled: 0
+  m_VideoShaders: []
