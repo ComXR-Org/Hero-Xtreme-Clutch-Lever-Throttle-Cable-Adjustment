@@ -17,15 +17,14 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 3b3f2093937523341a2ab6f18f557400
   m_SerializeEntries:
-  - m_GUID: 3da37436fba59a5409ae3ac780f8ae53
-    m_Address: Assets/Prefabs/MainSide Stand Lubrication/MainSide Stand Lubrication.prefab
+  - m_GUID: abd45e83e42011047a9ac7c230951ef3
+    m_Address: Assets/Prefabs/Clutch Lever & Throttle Cable Free Play adjustment.prefab
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
+    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 8ba177eb32ed4534782e7fd9f5e00419, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 4064b2202aa93b3449f5313ea19786c1, type: 2}
     - {fileID: 11400000, guid: f2ceddc9f524d2446bc8825be274b2b2, type: 2}
+    - {fileID: 11400000, guid: 4064b2202aa93b3449f5313ea19786c1, type: 2}

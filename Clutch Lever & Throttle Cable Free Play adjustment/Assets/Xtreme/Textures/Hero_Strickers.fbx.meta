@@ -1,79 +1,9 @@
 fileFormatVersion: 2
-guid: 811b6276f32da9d4288a961a8f6a330f
+guid: 9512281eb34bc5842965efa6098c06db
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Black Metal Matte
-    second: {fileID: 2100000, guid: 6935bfbe99cb5004fb9e303fc348db3f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Black Metal Shinny
-    second: {fileID: 2100000, guid: c7e8b80750151f04ab76d61c19d021af, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Black Plastic
-    second: {fileID: 2100000, guid: 23ffcd68428931241a839cf3ad990fe6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Black Rubber
-    second: {fileID: 2100000, guid: 286cec5fa24e8e24eaf2f6693c634bef, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Body Paint Chrome Panels
-    second: {fileID: 2100000, guid: 25593d23bedb3cd4a81828262dc1d6bd, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Body Paint Red
-    second: {fileID: 2100000, guid: 4c0138cc6a31887418f7c709a1235dfc, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Chrome Dull Matte
-    second: {fileID: 2100000, guid: bcc9ca8c08fafe549af2c88fc7af9bc9, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Chrome Matte
-    second: {fileID: 2100000, guid: c3b7f2e6cf8ba9c489cdd1d6da742951, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Chrome Shinny
-    second: {fileID: 2100000, guid: 8ce49ed38231b0745bfa31f5e277170f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Engine
-    second: {fileID: 2100000, guid: 2d31af507db4693429a13f6e1b5aadda, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Glass
-    second: {fileID: 2100000, guid: 57a7ab02717c5d44e841e2c0e6e9a681, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metal Red
-    second: {fileID: 2100000, guid: 127a0161409396644ab59961c319c340, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Oil Liquid
-    second: {fileID: 2100000, guid: 7e324474d95eeef459334f6d7b0635b3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tail Light Glass
-    second: {fileID: 2100000, guid: 5b9bac49505d1bc4199d256f1e53dc77, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

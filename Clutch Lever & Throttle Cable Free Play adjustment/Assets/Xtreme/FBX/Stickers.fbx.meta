@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: f8a960eaebe7f2744b492f78346e9cd0
+guid: 6dcd460084919f047892c98fee9555f9
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Stickers
-    second: {fileID: 2100000, guid: 8c8bc3b2d50538642bc84d301e4b0f11, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

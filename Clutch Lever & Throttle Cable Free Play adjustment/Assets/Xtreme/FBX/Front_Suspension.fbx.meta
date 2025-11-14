@@ -3,7 +3,82 @@ guid: 76f29b1b6f9c7c440baf43ec188f8142
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Metal Matte
+    second: {fileID: 2100000, guid: 6935bfbe99cb5004fb9e303fc348db3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Metal Shinny
+    second: {fileID: 2100000, guid: c7e8b80750151f04ab76d61c19d021af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Plastic
+    second: {fileID: 2100000, guid: 23ffcd68428931241a839cf3ad990fe6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Rubber
+    second: {fileID: 2100000, guid: 286cec5fa24e8e24eaf2f6693c634bef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body Paint Chrome Panels
+    second: {fileID: 2100000, guid: 25593d23bedb3cd4a81828262dc1d6bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body Paint Red
+    second: {fileID: 2100000, guid: 4c0138cc6a31887418f7c709a1235dfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brakepad
+    second: {fileID: 2100000, guid: 6b278e48334e16445b7ba9b0a00091c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Matte
+    second: {fileID: 2100000, guid: c3b7f2e6cf8ba9c489cdd1d6da742951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Shinny
+    second: {fileID: 2100000, guid: 8ce49ed38231b0745bfa31f5e277170f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display
+    second: {fileID: 2100000, guid: 8759143161a62be44abb7b31ebfe93f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display Glass
+    second: {fileID: 2100000, guid: 6cf1d740274b5374cae4c41d4f2fc3d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 57a7ab02717c5d44e841e2c0e6e9a681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold Chrome Shinny
+    second: {fileID: 2100000, guid: d21400730e9661d468f173e454d51a91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange Reflector
+    second: {fileID: 2100000, guid: b8263e4d4a7bfb14aa88a5bf4f0cc06e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Immision
+    second: {fileID: 2100000, guid: a3908d369a0865f468907350db2fb662, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
