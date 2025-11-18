@@ -2574,7 +2574,8 @@ MonoBehaviour:
     cautionNotes: 
     voiceOver: {fileID: 0}
     torque: 
-    toolSprite: []
+    toolSprite:
+    - {fileID: 21300000, guid: b357799a279b0a5459f2b9fa8652645e, type: 3}
   - locateObjectText: Locate the Adjusting Nut
     stepInstructions: Turn the adjusting nut into A & B  direction to adjust the
       clutch lever free play.
@@ -2594,7 +2595,8 @@ MonoBehaviour:
       ~Rotate the nut in Direction B - to decrease free play (Anti-Clockwise)~
     voiceOver: {fileID: 0}
     torque: 
-    toolSprite: []
+    toolSprite:
+    - {fileID: 21300000, guid: b357799a279b0a5459f2b9fa8652645e, type: 3}
   - locateObjectText: Locate the Lock Nut
     stepInstructions: Once the adjustment is done, tighten the lock nut.
     specialToolName: 
@@ -2612,7 +2614,8 @@ MonoBehaviour:
     cautionNotes: 
     voiceOver: {fileID: 0}
     torque: 
-    toolSprite: []
+    toolSprite:
+    - {fileID: 21300000, guid: b357799a279b0a5459f2b9fa8652645e, type: 3}
   - locateObjectText: Locate the Clutch Lever Rubber Boot
     stepInstructions: Slide the rubber boot back on the adjust and lock nut securely.
     specialToolName: 
@@ -2885,7 +2888,7 @@ MonoBehaviour:
   isWholeBikeUsed: 0
   partsToDisableInModule:
   - Body_Frame
-  - Handlebar
+  - HandleBar
   currentVariantName: 1
   materialSettings:
   - variantName: Yellow
